@@ -9,7 +9,7 @@ package appmusic;
  * @author p.vivoli
  */
 public class AppMusic {
- ciao
+
     /**
      * @param args the command line arguments
      */
