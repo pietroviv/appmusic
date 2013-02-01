@@ -16,5 +16,6 @@ public class AppMusic {
     public static void main() {
         // TODO code application logic here
         
+        System.out.println("");
     }
 }
