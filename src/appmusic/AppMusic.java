@@ -13,9 +13,7 @@ public class AppMusic {
     /**
      * @param args the command line arguments
      */
-    public static void main() {
+    public static void main(String[] args) {
         // TODO code application logic here
-        
-        System.out.println("");
     }
 }
